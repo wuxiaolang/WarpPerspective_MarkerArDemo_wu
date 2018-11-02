@@ -7,9 +7,6 @@
 
 # <center>机器人技术与应用作业选题一：编程实现透视变换</center>
     
-    
-<font size =4>**<center>机器人科学与工程  &emsp; &emsp; 吴艳敏 &emsp;&emsp; 1801948</center>**</font>
-
 <font size =4>**<center>工程代码：[https://github.com/wuxiaolang/WarpPerspective_MakerArDemo_wu](https://github.com/wuxiaolang/WarpPerspective_MakerArDemo_wu)</center>**</font>
      
 
